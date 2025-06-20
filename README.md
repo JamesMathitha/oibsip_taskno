@@ -1,2 +1,1 @@
-𝒐𝒊𝒃𝒔𝒊𝒑_𝒕𝒂𝒔𝒌𝒏𝒐
-Oasis Infobyte - Data Analytics Internship Tasks | August-P2 (2024) Batch
+A collection of end-to-end data science projects showcasing skills in machine learning, NLP, and data analysis. Projects include fraud detection, wine quality prediction, auto-complete & auto-correct systems, house price prediction, sentiment analysis, customer segmentation, data cleaning, and EDA.
